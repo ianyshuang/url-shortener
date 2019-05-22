@@ -28,3 +28,8 @@ input {
   margin-top: 30px;
   padding: 8px 80px;
 }
+
+#shortened-url {
+  font-size: 26px;
+  font-weight: 300;
+}
