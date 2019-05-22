@@ -29,7 +29,28 @@ input {
   padding: 8px 80px;
 }
 
+#submit-button:hover {
+  background-color: rgb(50, 145, 223);
+  color: #fff;
+  transition: all linear 0.3s;
+}
+
 #shortened-url {
   font-size: 26px;
   font-weight: 300;
+}
+
+#back-button {
+  font-size: 18px;
+  font-weight: 300;
+  padding: 5px 50px;
+  color: rgb(50, 145, 223);
+  border: 1px solid rgb(50, 145, 223);
+  border-radius: 3px
+}
+
+#back-button:hover {
+  background-color: rgb(50, 145, 223);
+  color: #fff;
+  transition: all linear 0.3s;
 }
